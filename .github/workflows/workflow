@@ -1,5 +1,0 @@
-jobs:
-  deploy:
-    steps:
-      with:
-        path: '_site.index.html'
